@@ -1,2 +1,2 @@
-# HTML-CSS-JAVASCRIPT-by-COURSERA
-Peer Graded Assignment
+# HTML-CSS-JAVASCRIPT-by-COURSERA from John Hopkins University
+Peer Graded Assignment solutions
