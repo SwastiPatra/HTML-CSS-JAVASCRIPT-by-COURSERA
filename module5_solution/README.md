@@ -1,1 +1,1 @@
-TO VIEW OUTPUT [CLICK LINK](https://github.com/SwastiPatra/HTML-CSS-JAVASCRIPT-by-COURSERA/blob/main/module5_solution/index.html)
+TO VIEW OUTPUT [CLICK LINK](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module5_solution/)
